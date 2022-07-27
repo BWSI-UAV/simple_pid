@@ -2,7 +2,7 @@
 
 ## 1. Clone this repo
 
-Remember where you cloned it (maybe best to closne it into your home directory).  
+Remember where you cloned it (maybe best to clone it into your home directory).  
 
 ```
 cd ~
